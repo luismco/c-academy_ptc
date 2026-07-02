@@ -1,4 +1,7 @@
-![C-Academy logo](https://raw.githubusercontent.com/luismco/c-academy_ptc/refs/heads/main/c-academy.bmp)
+<p>
+<img src="https://raw.githubusercontent.com/luismco/c-academy_ptc/refs/heads/main/c-academy.bmp" alt="logo" width="600">
+<p/>
+
 # Princípios Técnicos em Cibersegurança
 ## Laboratório 2
 ### Introdução
